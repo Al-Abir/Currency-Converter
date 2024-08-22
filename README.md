@@ -1,1 +1,2 @@
 # Currency-Converter
+For  currency converter project, focus on understanding APIs and how to fetch data using JavaScript's Fetch API. You'll work with JSON data and manage asynchronous operations using async/await. Key tasks include DOM manipulation to update the UI, handling user input with event listeners, and dealing with CORS issues if they arise. Additionally, be mindful of API rate limits when planning your usage.
